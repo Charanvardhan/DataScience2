@@ -1,1 +1,29 @@
-This is my course project
+This repository showcases a collection of academic projects related to Data Science, demonstrating proficiency in various modeling techniques, neural network architectures, and time series analysis.
+
+Projects Overview
+
+Project 1: Regression Models
+Description: Implementation and comparison of different regression models, including Ridge, Lasso, and Transformed regression.
+Languages: Python, Scala
+Key Files:
+DS2_Project1_Report.pdf: Comprehensive project report.
+Code for model implementation in Python and Scala.
+Project 2: Neural Networks
+Description: Exploration of neural networks with varying architectures, including 2-layer, 3-layer, and 4-layer networks.
+Languages: Python, Scala
+Key Files:
+Project 2 Report.pdf: Detailed report of the findings.
+Data Science 2_ Project 2_Presentation.pdf: Presentation summarizing key results.
+Project 3: Time Series Analysis
+Description: A focus on time series data, featuring analyses and models applied to COVID-19 weekly data.
+Languages: Python, Scala
+Key Files:
+Report.pdf: In-depth report on the time series analysis.
+TimeSeries.scala and python.py: Code for the analysis.
+covid_19_weekly.csv: Dataset used in the analysis.
+Repository Highlights
+
+Documentation: Each project folder includes detailed reports and supporting documentation.
+Data: Contains example datasets for reproducibility.
+Code: Implementations are provided in both Python and Scala, offering versatility and showcasing multi-language skills.
+Feel free to explore the repository to understand the methodologies and approaches used in these projects.
